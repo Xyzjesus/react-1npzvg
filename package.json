@@ -12,6 +12,9 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
+  "engines": {
+    "node": "16.10.0"
+  },
   "devDependencies": {
     "react-scripts": "latest"
   }
